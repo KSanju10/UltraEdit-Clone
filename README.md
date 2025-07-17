@@ -2,8 +2,6 @@
 
 This is a responsive front-end clone of the official UltraEdit download page, built using **HTML** and **CSS** only. It showcases a language-based download grid with 32-bit and 64-bit options for each supported language.
 
-![Project Screenshot](image.png)
-
 ## 🚀 Features
 
 - Responsive layout using CSS Flexbox and Grid
